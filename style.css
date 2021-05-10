@@ -1,0 +1,51 @@
+body {
+    background-color: #ffff99;
+    color: orange;
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    background-color: #fc6b04;
+    color: #ffff99;
+    padding: 20px;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+div {
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 1em;
+    padding: 10px;
+}
+
+ol,
+ul {
+    padding-left: 20px;
+    border: 5px #fc6b04 solid;
+}
+
+li {
+    margin: 10px;
+}
+
+p {
+    padding: 20px;
+    border: #ffcc00 dashed 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: white;
+    padding: 2px;
+    background-color: orange;
+    border-radius: 20px;
+    border: solid #fc6b04;
+}
